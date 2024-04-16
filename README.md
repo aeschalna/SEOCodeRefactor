@@ -1,6 +1,8 @@
 # Module 1 Code Refactor
 Description: Add comments, check link functionality, clean codebase & consolidate CSS selectors and properties, organizing to follow the semantic structure of the HTML elements
 
+Source code from: https://github.com/coding-boot-camp/urban-octo-telegram
+
 USER STORY
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -20,3 +22,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 LINK TO DEPLOYED APPLICATION
+https://aeschalna.github.io/SEOCodeRefactor/
